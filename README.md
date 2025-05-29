@@ -98,13 +98,20 @@ inputs/sample_invoice.pdf — example PDF invoice
 ## 🧪 Sample Output
 
 Processing: inputs/sample_email.txt
+
 [Classifier] Detected format: Email, intent: RFQ
+
 [Email Agent] Extracted sender: customer@example.com, urgency: high
+
 Shared memory updated for thread ID: email_12345
 
+
 Processing: inputs/sample_data.json
+
 [Classifier] Detected format: JSON, intent: Invoice
+
 [JSON Agent] Normalized data, missing fields: None
+
 Shared memory updated for thread ID: json_ABC001
 
 ---
