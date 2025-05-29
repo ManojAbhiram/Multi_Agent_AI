@@ -105,6 +105,7 @@ Processing: inputs/sample_email.txt
 
 Shared memory updated for thread ID: email_12345
 
+---
 
 Processing: inputs/sample_data.json
 
